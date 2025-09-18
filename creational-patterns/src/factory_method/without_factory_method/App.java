@@ -1,6 +1,6 @@
 package factory_method.without_factory_method;
 
-import model.IPhone;
+import factory_method.model.IPhone;
 import factory_method.without_factory_method.service.IphoneService;
 
 public class App {

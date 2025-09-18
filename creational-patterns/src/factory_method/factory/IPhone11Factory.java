@@ -1,7 +1,7 @@
 package factory_method.factory;
 
-import model.IPhone;
-import model.IPhone11;
+import factory_method.model.IPhone;
+import factory_method.model.IPhone11;
 
 public class IPhone11Factory extends IPhoneFactory {
     @Override

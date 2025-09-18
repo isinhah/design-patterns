@@ -1,9 +1,9 @@
 package factory_method.simple_factory_method;
 
-import model.IPhone;
-import model.IPhone11;
-import model.IPhone11Pro;
-import model.IPhoneX;
+import factory_method.model.IPhone;
+import factory_method.model.IPhone11;
+import factory_method.model.IPhone11Pro;
+import factory_method.model.IPhoneX;
 
 public class IPhoneSimpleFactory {
 

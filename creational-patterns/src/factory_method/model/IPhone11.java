@@ -1,4 +1,4 @@
-package model;
+package factory_method.model;
 
 public class IPhone11 extends IPhone {
 

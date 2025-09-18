@@ -1,6 +1,6 @@
 package factory_method.simple_factory_method;
 
-import model.IPhone;
+import factory_method.model.IPhone;
 
 public class App {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package factory_method.half_simple_factory_method;
 
-import model.IPhone;
-import model.IPhoneX;
+import factory_method.model.IPhone;
+import factory_method.model.IPhoneX;
 
 public class IPhoneXFactory extends IPhoneFactory {
 
